@@ -79,7 +79,7 @@ footer {
   background-color: white;
 }
 
-@media (max-width: 720px){
+@media (max-width: 1050px){
   .l{
     width: 73%;
   }
